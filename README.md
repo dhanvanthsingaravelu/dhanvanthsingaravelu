@@ -1,17 +1,17 @@
 <h1 align="center">Hey 👋 I'm Dhanvanth Singaravelu</h1>
 <p align="center">
-  <b>Software Engineer | Cloud Native Enthusiast | AI Builder | Security Automation</b><br>
-  🛠 Building secure and scalable systems with a touch of AI ⚡<br>
+  <b>Software Engineer</b><br>
+  🛠 Building solutions that make a real impact on the community.⚡<br>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 Software Engineer with 2+ years of experience building React, .NET, and Docker-based systems
-- 🤖 Built AI-powered agents and complex data structures with Azure OpenAI & Golang
-- 🛡 Passionate about red teaming, cybersecurity tools, and cloud-native design
-- 💡 I enjoy designing impactful tools that solve real-world problems for both business and community
+- 🧠 Software Engineer with 2+ years of experience building React, .NET, and Docker-based systems  
+- 🤖 Built AI agents using LLMs (Azure OpenAI) to automate and enhance penetration testing workflows  
+- ⚙️ Fascinated by low-level systems engineering — built [Kokaq](https://kokaq.io/), a custom persistent priority queue inspired by OS-level paging and memory management  
+- 💡 I enjoy designing impactful tools that solve real-world problems for both business and community  
 
 ---
 
@@ -31,10 +31,10 @@
 
 ### 📌 Projects & Achievements
 
-- 🧠 **Wyvern Copilot** – AI pentest agent built with Azure OpenAI (🏆 Top 3 in Microsoft DSR Hackathon)
-- 🌐 **Quasar Agent** – Live security posture visualization tool (🥇 Winner, Microsoft Security AI Hackathon)
-- 📦 **PrefQ** – Cloud-native priority queue with custom paging and TCP protocol
-- 🚜 **Farmer’s Messenger** – Cisco ThingQbator winner: bridging labor gaps in agriculture
+- 🧠 **Wyvern Copilot** – AI pentest agent built with Azure OpenAI (🏆 Top 3 in Microsoft DSR Hackathon)  
+- 🌐 **Quasar Agent** – Live security posture visualization tool (🥇 Winner, Microsoft Security AI Hackathon)  
+- 📦 **[Kokaq](https://kokaq.io/)** – Cloud-native priority queue with custom paging and TCP protocol  
+- 🚜 **Farmer’s Messenger** – Cisco ThingQbator winner: bridging labor gaps in agriculture  
 
 ---
 
@@ -50,9 +50,9 @@
 
 ### 🎓 Education & Certifications
 
-- 🎓 B.Sc. Computer Science @ Amrita University (CGPA: 9.69)
-- 📜 AZ-900: Microsoft Azure Fundamentals (955/1000)
-- 📜 AWS Certified Cloud Practitioner (929/1000)
+- 🎓 B.Sc. Computer Science @ Amrita University (CGPA: 9.69)  
+- 📜 AZ-900: Microsoft Azure Fundamentals (955/1000)  
+- 📜 AWS Certified Cloud Practitioner (929/1000)  
 
 ---
 
