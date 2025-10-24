@@ -50,7 +50,7 @@
 
 ### 🎓 Education & Certifications
 
-- 🎓 B.Sc. Computer Science @ Amrita University (CGPA: 9.69)  
+- 🎓 B.Tech. Computer Science @ Amrita University (CGPA: 9.69)  
 - 📜 AZ-900: Microsoft Azure Fundamentals (955/1000)  
 - 📜 AWS Certified Cloud Practitioner (929/1000)  
 
